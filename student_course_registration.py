@@ -49,6 +49,8 @@ else:
                 print("Invalid selection!")
 
         elif option == "2":
+            with open("data.txt", "a") as file:
+                file.write(regno + "," + name + "," + selected_course + "\n")
             print(rr.center(50,'-'))
             print("Final Details:")
             print("Regtration No:",regno)
