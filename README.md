@@ -45,7 +45,7 @@ This program is a basic Python console application. It does not use databases or
 - Creating user-friendly console applications
 
 Author SIDDARTHAN M 2nd Year CSE Student, Kalasalingam University 
- LinkedIn Profile (wwww.linkedin.com/in/siddarthan1009)
+ [LinkedIn Profile](https://www.linkedin.com/in/siddarthan1009)
  Email: siddarthanm2007@gmail.com
 
 # GitHub Repo
